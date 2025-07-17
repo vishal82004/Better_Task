@@ -1,0 +1,23 @@
+# Python cache files and folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite journal/temp files
+*.db-journal
+*.sqlite3-journal
+
+# Local development environment folders
+venv/
+.env
+
+# Logs
+*.log
+
+# OS/IDE junk
+.DS_Store
+*.swp
+*.swo
+*.bak
+Thumbs.db
